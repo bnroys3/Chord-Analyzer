@@ -1,0 +1,17 @@
+{
+  "0": "{",
+  "1": "}",
+  "devDependencies": {
+    "snowpack": "^3.2.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.2",
+    "web-audio-beat-detector": "^8.2.6"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  }
+}
