@@ -7,3 +7,4 @@ This minimizes erroneous notes being added due to the harmonic overtone series.
 Then, a modulus operation is performed on the notes so that the chord quality can be determined, independent of the root note.
 All four or fewer note chord combinations (more than 2 million) are able to be named by doing this.
 
+The code is thoroughly commented.
